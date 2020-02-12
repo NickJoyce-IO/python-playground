@@ -13,3 +13,7 @@ def count(string):
         else:
             dict[letter] = dict[letter] + 1
     return dict
+
+
+
+print(count('erewrwfadfnbdfgdsfgaewrwerewgdfnbsdfgklbjnergjqerntgqernteqrjkgbadfbkandffdgdfgfgdfgdfgdfgdfgdfggwernwer'))
