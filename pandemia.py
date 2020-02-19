@@ -20,4 +20,5 @@ def infected(s):
 print(infected("01000000X000X011X0X"))
 
 
+
     
